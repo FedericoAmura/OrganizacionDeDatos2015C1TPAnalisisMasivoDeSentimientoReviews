@@ -1,0 +1,23 @@
+{
+    "nodos": [
+        {"0" : ["palabra0", 14] },
+        {"1" : ["palabra1", 4] },
+        {"2" : ["palabra2" , 9] },
+        {"3" : ["palabra3" , 3] },
+        {"4" : ["palabra4" , 20] },
+        {"5" : ["palabra5" , 12] },
+        {"6" : ["palabra6" , 7] },
+        {"7" : ["palabra7" , 1] },
+        {"8" : ["palabra8" , 4] }
+    ],
+    "aristas": [
+        {"0" : ["palabra0palabra1" , 1] },
+        {"1" : ["palabra1palabra3" , 4] },
+        {"2" : ["palabra2palabra4" , 2] },
+        {"3" : ["palabra2palabra3" , 5] },
+        {"4" : ["palabra6palabra4" , 10] },
+        {"5" : ["palabra5palabra6" , 3] },
+        {"6" : ["palabra6palabra3" , 2] },
+        {"7" : ["palabra8palabra7" , 6] }
+    ]
+}
